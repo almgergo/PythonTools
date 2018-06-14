@@ -2,6 +2,7 @@ import checksumWatcher
 import os
 import sys
 
+## expected cmd arguments: 1 - directory to check files in
 rootdir = sys.argv[1]
 
 print ("\r\n#### Refreshing caches... ####")

@@ -1,5 +1,3 @@
-## expected cmd arguments: 1 - file to check, 2 - lastWriteTime
-
 import hashlib
 import sys
 import os
